@@ -1,16 +1,66 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Ana%20Vitória%20Morais%20Barbosa&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
-<!--
-**ana-vitoria-rais/ana-vitoria-rais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 Olá! Eu sou Ana Vitória
 
-Here are some ideas to get you started:
+🎓 Estudante de Engenharia de Software  
+💻 Desenvolvedora em formação  
+📊 Interessada em Engenharia de Dados e desenvolvimento de sistemas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bem-vindo ao meu perfil no GitHub!  
+Aqui você encontrará projetos, estudos e experimentos que fazem parte da minha jornada na tecnologia.
+
+---
+
+# 🌎 Sobre mim
+
+- 🎓 Estudante de Engenharia de Software  
+- 📚 Sempre aprendendo novas tecnologias  
+- 🚀 Construindo projetos para evoluir profissionalmente  
+
+---
+
+# 🧠 Linguagens de Programação
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
+<img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
+<img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+
+<img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+
+</div>
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-vitoria-rais&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-vitoria-rais&layout=compact&theme=tokyonight"/>
+
+---
+
+# 📈 Gráfico de Atividade
+
+[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=ana-vitoria-rais&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ana-vitoria-rais)
+
+---
+
+# 🐍 Contribuições no GitHub
+
+![Snake animation](https://github.com/ana-vitoria-rais/ana-vitoria-rais/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 👀 Visitas no Perfil
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=ana-vitoria-rais&color=blue" alt="contador de visitas"/>
+</p>
+
+---
+
+⭐ Obrigada por visitar meu perfil!
