@@ -42,11 +42,6 @@ Aqui você encontrará projetos, estudos e experimentos que fazem parte da minha
 
 ---
 
-# 🐍 Contribuições no GitHub
-
-![Snake animation](https://github.com/ana-vitoria-rais/ana-vitoria-rais/blob/output/github-contribution-grid-snake.svg)
-
----
 
 # 👀 Visitas no Perfil
 
