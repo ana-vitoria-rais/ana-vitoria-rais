@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Ana%20Vitória%20Morais%20Barbosa&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
-# 👩‍💻 Olá! Eu sou Ana Vitória
+# 👩‍💻 Olá! Eu sou a Ana Vitória!
 
 🎓 Estudante de Engenharia de Software  
 💻 Desenvolvedora em formação  
@@ -35,13 +35,6 @@ Aqui você encontrará projetos, estudos e experimentos que fazem parte da minha
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-vitoria-rais&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-vitoria-rais&layout=compact&theme=tokyonight"/>
-
----
 
 # 📈 Gráfico de Atividade
 
