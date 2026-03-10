@@ -5,17 +5,11 @@
 🎓 Estudante de Engenharia de Software  
 💻 Desenvolvedora em formação  
 📊 Interessada em Engenharia de Dados e desenvolvimento de sistemas  
+📚 Sempre aprendendo novas tecnologias  
+🚀 Construindo projetos para evoluir profissionalmente  
 
 Bem-vindo ao meu perfil no GitHub!  
 Aqui você encontrará projetos, estudos e experimentos que fazem parte da minha jornada na tecnologia.
-
----
-
-# 🌎 Sobre mim
-
-- 🎓 Estudante de Engenharia de Software  
-- 📚 Sempre aprendendo novas tecnologias  
-- 🚀 Construindo projetos para evoluir profissionalmente  
 
 ---
 
@@ -34,7 +28,6 @@ Aqui você encontrará projetos, estudos e experimentos que fazem parte da minha
 </div>
 
 ---
-
 
 # 📈 Gráfico de Atividade
 
