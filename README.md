@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Ana%20Vitória%20Morais%20Barbosa&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:9370DB,100:C084FC&height=200&section=header&text=Ana%20Vitória%20Morais%20Barbosa&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
 # 👩🏻‍💻 Olá! Eu sou a Ana Vitória!
 
