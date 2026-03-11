@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Ana%20Vitória%20Morais%20Barbosa&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
-# 👩‍💻 Olá! Eu sou a Ana Vitória!
+# 👩🏻‍💻 Olá! Eu sou a Ana Vitória!
 
 🎓 Estudante de Engenharia de Software  
 💻 Desenvolvedora em formação  
