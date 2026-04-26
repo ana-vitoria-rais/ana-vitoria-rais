@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:9370DB,100:C084FC&height=200&section=header&text=Ana%20Vitória%20Morais%20Barbosa&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:9370DB,100:C084FC&height=200&section=header&text=Ana%20Vitória%20Morais%20&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
 # 👩🏻‍💻 Olá! Eu sou a Ana Vitória!
 
@@ -29,12 +29,6 @@ Aqui você encontrará projetos, estudos e experimentos que fazem parte da minha
 
 ---
 
-# 📈 Gráfico de Atividade
-
-[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=ana-vitoria-rais&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ana-vitoria-rais)
-
----
-
 
 # 👀 Visitas no Perfil
 
@@ -42,6 +36,4 @@ Aqui você encontrará projetos, estudos e experimentos que fazem parte da minha
 <img src="https://komarev.com/ghpvc/?username=ana-vitoria-rais&color=blue" alt="contador de visitas"/>
 </p>
 
----
 
-⭐ Obrigada por visitar meu perfil!
